@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home" type="id" />
+    <item name="notification" type="id" />
+    <item name="search" type="id" />
+    <item name="list" type="id" />
+    <item name="ImageView" type="id" />
+</resources>
